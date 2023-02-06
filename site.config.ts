@@ -52,14 +52,22 @@ export default siteConfig({
   // important pages
   navigationStyle: 'default'
   // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  navigationLinks: [
+    {
+      title: 'Team',
+      pageId: 'Team-f9b264f3becd4e619c776ed8d459ecbc'
+    },
+    {
+      title: 'Publications',
+      pageId: 'Publications-8414411d6ea447fda5eaa4754e5ab225'
+    },
+    {
+      title: 'Projects',
+      pageId: 'Projects-9009c5002a8e4a848e6dcbf8cb014486'
+    },
+    {
+      title: 'Contact',
+      pageId: 'Contact-b474931fbc534eddae2fca9cb16a0d0c'
+    }                 
+  ]
 })
