@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9a8d1a0c2df84b0e93c3ddd4249ca9ff?v=f2fbaaf2176a40a9a9b1e50baaf9b72b',
+  rootNotionPageId: 'RC4ML-80c2f57d85f74d419e4b1e766a3f398a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'RC4ML',
-  domain: 'https://rc4ml-zju.notion.site/9a8d1a0c2df84b0e93c3ddd4249ca9ff?v=f2fbaaf2176a40a9a9b1e50baaf9b72b',
+  domain: 'https://rc4ml-zju.notion.site/RC4ML-80c2f57d85f74d419e4b1e766a3f398a',
   author: 'carlzhang4',
 
   // open graph metadata (optional)
